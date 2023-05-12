@@ -1,8 +1,15 @@
 {
   "name": "fetch-ao3",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A library to fetch data from ArchiveOfOurOwn.org",
-  "author": "Arbaaz Laskar",
+  "author": {
+    "name": "Arbaaz Laskar",
+    "email": "arzkar.dev@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arzkar/fetch-ao3"
+  },
   "license": "Apache-2.0",
   "licenses": [
     {
