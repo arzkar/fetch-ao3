@@ -2,7 +2,6 @@
   "name": "fetch-ao3",
   "version": "0.1.0",
   "description": "A library to fetch data from ArchiveOfOurOwn.org",
-  "main": "index.js",
   "author": "Arbaaz Laskar",
   "license": "Apache-2.0",
   "licenses": [
@@ -11,6 +10,8 @@
       "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
+  "main": "./lib/cjs/index.js",
+  "types": "./lib/cjs/types/index.d.ts",
   "scripts": {
     "clean": "rm -rf ./lib",
     "build": "npm run clean && npm run build:esm && npm run build:cjs",
