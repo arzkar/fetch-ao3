@@ -1,5 +1,7 @@
 # fetch-ao3
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arzkar)
+
 A library to fetch data from ArchiveOfOurOwn.org
 
 ## Features
